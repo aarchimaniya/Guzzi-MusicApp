@@ -31,10 +31,6 @@ MusicApp is a beautifully designed, interactive music player that allows users t
 No Copying: Do not copy code or any other content from your classmates or any other source. Plagiarism is strictly prohibited and can result in severe consequences, including academic penalties. Ensure that all the code and content in your project are original and properly attributed to the appropriate sources, if applicable.
 
 ## Images:
--<img src="https://github.com/user-attachments/assets/6b5a7a79-b3d8-4ff0-aea6-f76668c8ff2d" width="290">
-
-
-
 -<img src="https://github.com/user-attachments/assets/66f250f2-b5a3-48b1-b2e1-ac6c7e645335" width="250">
 -<img src="https://github.com/user-attachments/assets/4d23e8d4-e81e-4286-a405-991a22945aa4" width="250">
 -<img src="https://github.com/user-attachments/assets/919a3d0c-edcd-4f01-8543-1fdb56f43e1b" width="250">
